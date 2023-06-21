@@ -1,7 +1,9 @@
 #include "main.h"
 	/**
 	 * main - print _putchar
-	 * is written by mbah
+	 *
+	 * Description:'alx putchar.c'
+	 * @parameter: is written by me
 	 * Return: 0
 	 */
 
